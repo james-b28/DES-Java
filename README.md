@@ -1,9 +1,8 @@
 # DES-Java
 
-A Java implementation of the 56-bit key DES Cipher
+A Java implementation of the 56-bit key DES cipher
 
-This program allows for the encryption and decryption of files through a simple interface. In order for the user to encrypt or decrpt, a user
-inputs the required hexadecimal key and chooses the mode for the program (encryption or decryption)
+This program allows for the encryption and decryption of files through a simple interface. In order for the user to encrypt or decrpt, the user needs to input the required **hexadecimal** key and choose the mode for the program (encryption or decryption)
 
 ## Getting Started
 
@@ -14,9 +13,8 @@ These instructions will get you a copy of the project up and running on your loc
 What you need to install the program:
 
 ```
-1. C++ compiler
-2. freeglut 2.8 (http://freeglut.sourceforge.net) or its variants to use the OpenGL API used in the source code
-3. An IDE of your choice
+1. An Eclipse IDE
+2. A Java runtime environment (to run the java code)
 ```
 
 ### Installing
