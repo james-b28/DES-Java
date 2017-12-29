@@ -1,7 +1,5 @@
 # DES-Java
 
-A Java implementation of the 56-bit key DES cipher
-
 This program allows for the encryption and decryption of files through a simple interface. In order for the user to encrypt or decrpt, the user needs to input the required **hexadecimal** key and choose the mode for the program (encryption or decryption)
 
 ## Getting Started
