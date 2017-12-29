@@ -13,17 +13,16 @@ These instructions will get you a copy of the project up and running on your loc
 What you need to install the program:
 
 ```
-1. An Eclipse IDE
-2. A Java runtime environment (to run the java code)
+1. An Eclipse IDE for Java
+2. A Java runtime environment (to run Java Code)
 ```
 
 ### Installing
 
-In order to run the program, download the source code into a source folder and install an IDE such as Eclipse CDT with MinGW. Then install freeglut to resolve all dependencies. Detailed instructions can be found here:
-https://www.ntu.edu.sg/home/ehchua/programming/opengl/HowTo_OpenGL_C.html
+In order to run the program, download the source code and import the project through Eclipse. Make sure the package name you defined is the same as the one written in the source file.
 
+Useful Links
 
-## Authors
+Eclipse: https://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/oxygen2
 
-* **Mussie Habtemichael** - *Initial work* - [mussieh](https://github.com/mussieh)
-
+Java: http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
